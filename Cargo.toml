@@ -1,0 +1,3 @@
+[workspace]
+members = ["scan", "scan-core", "scan-macros", "scan-test"]
+resolver = "2"
